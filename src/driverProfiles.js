@@ -1,0 +1,68 @@
+const drivers = [
+    {
+      name: "Barry",
+      app: "DoorDash",
+      online: true,
+      rating: "4.92",
+      acceptance: "89%",
+      cancellation: "3%",
+      ontime: "92%",
+    },
+    {
+      name: "Karen",
+      app: "Uber Eats",
+      online: true,
+      rating: "89%",
+      acceptance: "68%",
+      cancellation: "4%",
+      ontime: "94%",
+    },
+    {
+      name: "Andre",
+      app: "Grubhub",
+      online: true,
+      rating: "Premier",
+      acceptance: "98%",
+      cancellation: "0%",
+      ontime: "96%",
+    },
+    {
+      name: "June",
+      app: "Instacart",
+      online: true,
+      rating: "5.00",
+      acceptance: "N/A",
+      cancellation: "1%",
+      ontime: "N/A",
+    },
+    {
+      name: "Joshy",
+      app: "Shipt",
+      online: true,
+      rating: "4.98",
+      acceptance: "N/A",
+      cancellation: "1%",
+      ontime: "97%",
+    },
+    {
+      name: "Susan",
+      app: "Spark",
+      online: false,
+      rating: "4.5",
+      acceptance: "80%",
+      cancellation: "0%",
+      ontime: "100%",
+    },
+    {
+      name: "Marty",
+      app: "GoPuff",
+      online: false,
+      rating: "4.8",
+      acceptance: "90%",
+      cancellation: "2%",
+      ontime: "91%",
+    },
+  ];
+  
+  export default drivers;
+  
