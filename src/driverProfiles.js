@@ -1,6 +1,7 @@
 const drivers = [
     {
       name: "Barry",
+      image: "https://media.licdn.com/dms/image/D5603AQHO6JlaIJPUZw/profile-displayphoto-shrink_800_800/0/1708096268536?e=2147483647&v=beta&t=h6eYLBMyvEcyrQUjAg3443x_gPOEh-C9dYyJIiBspzk",
       app: "DoorDash",
       online: true,
       rating: "4.92",
@@ -10,6 +11,7 @@ const drivers = [
     },
     {
       name: "Karen",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm5m_mzlKNcpskle8aB3r2zsO2xRgV3TMwDj7yjKUC6g&s",
       app: "Uber Eats",
       online: true,
       rating: "89%",
@@ -18,7 +20,8 @@ const drivers = [
       ontime: "94%",
     },
     {
-      name: "Andre",
+      name: "Andrew",
+      image: "https://media.licdn.com/dms/image/D5603AQH8McJ5PppDzA/profile-displayphoto-shrink_800_800/0/1685462004996?e=2147483647&v=beta&t=AKngfGY1DIbPSlA91WV1vpLxQSaDLoUrKpyfvm28Mbc",
       app: "Grubhub",
       online: true,
       rating: "Premier",
@@ -27,7 +30,8 @@ const drivers = [
       ontime: "96%",
     },
     {
-      name: "June",
+      name: "Alyssa",
+      image: "https://media.licdn.com/dms/image/C4D03AQGUlu7ODTB7rQ/profile-displayphoto-shrink_800_800/0/1607130424750?e=2147483647&v=beta&t=BpGTjx_fMgCyC3GkVNRbJ1J9NcwSiahT-C5KMNkUu6Q",
       app: "Instacart",
       online: true,
       rating: "5.00",
@@ -36,7 +40,8 @@ const drivers = [
       ontime: "N/A",
     },
     {
-      name: "Joshy",
+      name: "Josh",
+      image: "https://media.licdn.com/dms/image/C5603AQFhOfS74Rp04A/profile-displayphoto-shrink_800_800/0/1651001276066?e=2147483647&v=beta&t=0KHv7Eq8E-uencVx4SxNhbQJQFoWBUGx5OqXTj2_XLk",
       app: "Shipt",
       online: true,
       rating: "4.98",
@@ -45,7 +50,8 @@ const drivers = [
       ontime: "97%",
     },
     {
-      name: "Susan",
+      name: "Elizabeth",
+      image: "https://media.licdn.com/dms/image/C4E03AQFFWPooFcR3gg/profile-displayphoto-shrink_800_800/0/1560561619883?e=2147483647&v=beta&t=7au1gM7nTaA2jBlw8T6TRzPQE-DdonMuvgf3mMhirv8",
       app: "Spark",
       online: false,
       rating: "4.5",
@@ -54,7 +60,8 @@ const drivers = [
       ontime: "100%",
     },
     {
-      name: "Marty",
+      name: "Summer",
+      image: "https://media.licdn.com/dms/image/C4D03AQF1BDKbfQ9C_Q/profile-displayphoto-shrink_800_800/0/1646181149696?e=2147483647&v=beta&t=Unytm5FPsAv8Lcd_dqGWyJmXdsdGBnxZpG5VcHdu_YA",
       app: "GoPuff",
       online: false,
       rating: "4.8",
